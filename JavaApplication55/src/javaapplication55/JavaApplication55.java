@@ -18,6 +18,8 @@ public class JavaApplication55 {
         // TODO code application logic here
         
         System.out.println("Aljoharah");
+        System.out.println("Jawaher");
+        
     }
     
 }
